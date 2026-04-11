@@ -141,32 +141,6 @@ class Karthik:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=karthik14344&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik14344&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karthik14344&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🧩 **300+ LeetCode problems** solved
-- 🤖 **92% quality score** in LLM evaluation at OutlierAI (500+ evaluations)
-- 🎓 **94% in Class XII PCM**
-- 🏥 **95.8% accuracy** on medical image classification (108K+ images)
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
