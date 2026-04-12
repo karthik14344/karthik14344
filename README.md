@@ -21,7 +21,7 @@
 class Karthik:
     name       = "Satya Karthikeya Singidi"
     university = "BML Munjal University (Batch 2023)"
-    gpa        = "7.61 / 10.0"
+    gpa        = "7.9 / 10.0"
     currently  = "Building production-grade MLOps systems & mobile apps"
     interests  = ["MLOps", "Deep Learning", "Flutter", "LLM Evaluation", "Cloud Infrastructure"]
     open_to    = ["Internships", "Collaborations", "Open Source"]
