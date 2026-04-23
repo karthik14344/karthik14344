@@ -147,7 +147,7 @@ class Karthik:
 
 If you're working on something in MLOps, AI/ML, or mobile and want to collaborate — reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karthik-singidi)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karthik-singidi-4587a4227/)
 [![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:singidikarthik1434@gmail.com)
 
 </div>
