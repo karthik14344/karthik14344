@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthik--singidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-singidi-4587a4227/)
 [![Email](https://img.shields.io/badge/Gmail-singidikarthik1434-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singidikarthik1434@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KarthikSingidi/)
 [![GitHub](https://img.shields.io/badge/GitHub-karthik14344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthik14344)
 
 </div>
